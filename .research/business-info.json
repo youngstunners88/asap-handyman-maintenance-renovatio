@@ -1,0 +1,20 @@
+{
+  "businessName": "Asap Handyman Maintenance Renovatio",
+  "category": "handyman",
+  "brandColors": {
+    "primary": "#D35400",
+    "secondary": "#E67E22",
+    "accent": "#27AE60",
+    "dark": "#A04000",
+    "light": "#FEF5E7"
+  },
+  "tagline": "No Job Too Small",
+  "services": [
+    "General Repairs",
+    "Painting",
+    "Furniture Assembly",
+    "Door/Window Repairs",
+    "Maintenance",
+    "Renovations"
+  ]
+}
